@@ -10,15 +10,16 @@ Find me on [GitHub](https://github.com/jzhao67)
 - Eliminate jQuery from codebases
 
 ### What I use
-#### Languages
+**Languages**
 TypeScript, JavaScript, HTML, CSS
 
-#### Frameworks
+**Frameworks**
 SvelteKit, React, React Native, native web components
 
-#### Tools
+**Tools**
 Git, Storybook, JIRA, Figma, Linux, Windows, MacOS
 
 ### Education
 BSc. Computer Science, University of Illinois at Urbana-Champaign
-\+ Minor in Art and Design
+
+*Minor in Art and Design*
