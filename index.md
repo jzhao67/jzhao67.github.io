@@ -12,8 +12,8 @@ Frontend developer with seven years of experience building and maintaining acces
 - Eliminate jQuery from codebases
 
 ### What I use
-**Languages**: TypeScript, JavaScript, HTML, CSS
-**Frameworks**: SvelteKit, React, React Native, native web components
+**Languages**: TypeScript, JavaScript, HTML, CSS  
+**Frameworks**: SvelteKit, React, React Native, native web components  
 **Tools**: Git, Storybook, JIRA, Figma, Linux, Windows, MacOS
 
 ### Education
