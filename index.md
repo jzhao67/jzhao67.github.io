@@ -12,16 +12,10 @@ Frontend developer with seven years of experience building and maintaining acces
 - Eliminate jQuery from codebases
 
 ### What I use
-**Languages**
-TypeScript, JavaScript, HTML, CSS
-
-**Frameworks**
-SvelteKit, React, React Native, native web components
-
-**Tools**
-Git, Storybook, JIRA, Figma, Linux, Windows, MacOS
+**Languages**: TypeScript, JavaScript, HTML, CSS
+**Frameworks**: SvelteKit, React, React Native, native web components
+**Tools**: Git, Storybook, JIRA, Figma, Linux, Windows, MacOS
 
 ### Education
-BSc. in Computer Science, University of Illinois at Urbana-Champaign
-
+BSc. in Computer Science, University of Illinois at Urbana-Champaign  
 *Minor in Art and Design*
