@@ -1,4 +1,4 @@
-Find me on [GitHub](https://github.com/jzhao67).
+Find me on [GitHub](https://github.com/jzhao67) or [send me a message](https://form.typeform.com/to/eHgcQjfl).
 
 Frontend developer with seven years of experience building and maintaining accessible, user-friendly web apps. Comfortable adapting to new frameworks, tools, and technologies as projects require. Experienced in working in small teams with designers, frontend and backend developers. 
 
