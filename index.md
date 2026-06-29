@@ -1,4 +1,6 @@
-Find me on [GitHub](https://github.com/jzhao67)
+Find me on [GitHub](https://github.com/jzhao67).
+
+Frontend developer with seven years of experience building and maintaining accessible, user-friendly web apps. Comfortable adapting to new frameworks, tools, and technologies as projects require. Experienced in working in small teams with designers, frontend and backend developers. 
 
 ### What I do
 - Build responsive, accessible, and maintainable websites and web apps
@@ -20,6 +22,6 @@ SvelteKit, React, React Native, native web components
 Git, Storybook, JIRA, Figma, Linux, Windows, MacOS
 
 ### Education
-BSc. Computer Science, University of Illinois at Urbana-Champaign
+BSc. in Computer Science, University of Illinois at Urbana-Champaign
 
 *Minor in Art and Design*
